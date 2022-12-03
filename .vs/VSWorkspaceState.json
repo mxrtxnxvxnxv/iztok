@@ -3,13 +3,11 @@
     "",
     "\\static",
     "\\static\\img",
-    "\\themes",
-    "\\themes\\tella",
+    "\\static\\img\\slide",
     "\\themes\\tella\\exampleSite",
-    "\\themes\\tella\\exampleSite\\static",
-    "\\themes\\tella\\exampleSite\\static\\img",
+    "\\themes\\tella\\exampleSite\\data",
     "\\themes\\tella\\exampleSite\\static\\img\\logo"
   ],
-  "SelectedNode": "\\themes\\tella\\exampleSite\\static\\img\\logo",
+  "SelectedNode": "\\static\\img\\slide",
   "PreviewInSolutionExplorer": false
 }
