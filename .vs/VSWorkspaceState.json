@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\static",
-    "\\static\\img",
-    "\\static\\img\\slide",
-    "\\themes\\tella\\exampleSite",
-    "\\themes\\tella\\exampleSite\\data",
-    "\\themes\\tella\\exampleSite\\static\\img\\logo"
+    ""
   ],
-  "SelectedNode": "\\static\\img\\slide",
+  "SelectedNode": "\\content",
   "PreviewInSolutionExplorer": false
 }
