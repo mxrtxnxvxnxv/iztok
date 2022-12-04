@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static\\img",
-    "\\static\\img\\slide"
+    "\\static",
+    "\\static\\css"
   ],
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }

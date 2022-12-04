@@ -68,18 +68,18 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.instagram.com/iztokstudio/"
     pre = "<i class='icon-instagram text-2xl'></i>"
       weight = 1
 
-       [[menu.footer]]
-    name = "facebook"
-    url = "https://facebook.com"
-    pre = "<i class='icon-facebook text-2xl'></i>"
-      weight = 2
+#       [[menu.footer]]
+#    name = "facebook"
+#    url = "https://facebook.com"
+#    pre = "<i class='icon-facebook text-2xl'></i>"
+#      weight = 2
 
-       [[menu.footer]]
-    name = "twitter"
-    url = "https://twitter.com"
-    pre = "<i class='icon-twitter text-2xl'></i>"
-      weight = 3
+#       [[menu.footer]]
+#    name = "twitter"
+#    url = "https://twitter.com"
+#    pre = "<i class='icon-twitter text-2xl'></i>"
+#      weight = 3
