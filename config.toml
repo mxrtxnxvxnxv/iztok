@@ -18,8 +18,6 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
-
   googleFonts = true
 
   [params.logo]
@@ -51,16 +49,10 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
+    identifier = "home"
+    name = "Home"
     url = "/"
     weight = 1
-
-#  [[menu.main]]
-#    identifier = "blog"
-#    name = "Blog"
-#    url = "/blog/"
-#    weight = 2
 
   [[menu.main]]
     identifier = "about"
@@ -74,14 +66,20 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 4
 
-  # Footer Menu
   [[menu.footer]]
-    name = "Home"
-    url = "/"
+    name = "instagram"
+    url = "https://instagram.com"
+    pre = "<i class='icon-instagram text-2xl'></i>"
       weight = 1
 
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
+       [[menu.footer]]
+    name = "facebook"
+    url = "https://facebook.com"
+    pre = "<i class='icon-facebook text-2xl'></i>"
       weight = 2
+
+       [[menu.footer]]
+    name = "twitter"
+    url = "https://twitter.com"
+    pre = "<i class='icon-twitter text-2xl'></i>"
+      weight = 3

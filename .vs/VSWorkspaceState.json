@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\static\\img",
+    "\\static\\img\\slide"
   ],
-  "SelectedNode": "\\content",
   "PreviewInSolutionExplorer": false
 }

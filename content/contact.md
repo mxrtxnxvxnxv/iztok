@@ -2,6 +2,6 @@
 title: 'Contact'
 ---
 
-To contact us, please fill out the form below.
+Contact us on info@iztok.co or simply fill out the form below.
 
 {{< form >}}

@@ -43,7 +43,7 @@ ehthumbs.db
 ehthumbs_vista.db
 
 # Node modules 
-node_modules/*
+ node_modules/*
 
 # Dump file
 *.stackdump
