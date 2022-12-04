@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: 'For commissions or inquiries'
 ---
+#  
+contact us on info@iztok.co
 
-Contact us on info@iztok.co or simply fill out the form below.
-
-{{< form >}}
+<!--{{< form >}}-->
