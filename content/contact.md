@@ -2,6 +2,6 @@
 title: 'For commissions or inquiries'
 ---
 #  
-contact us on info@iztok.co
+contact us at info@iztok.co
 
 <!--{{< form >}}-->

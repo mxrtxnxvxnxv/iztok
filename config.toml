@@ -21,7 +21,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/iztok.svg"
+    main = "img/logo/Logo 1.svg"
     alt = "iztok Logo"
 
     # The size parameter is the class name of tailwindcss

@@ -2,7 +2,7 @@
     <div id="overlay">
         <ul class="text-center list-none text-white text-3xl">
             {{ range .Site.Menus.main }}
-            <li class="p-2">
+            <li class="p-1">
                 <a href="{{ .URL | safeURL }}">
                     <span>{{ .Name }}</span>
                 </a>
@@ -10,10 +10,10 @@
             {{ end }}
         </ul>
     </div>
-    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-6">
         <div class="flex items-center flex-shrink-0 text-xl text-grey-800 mr-6">
             <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
-                    class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
+                    class="{{ .Site.Params.logo.size }} mr-1" src="{{ .Site.Params.logo.main | relURL }}"></a>
         </div>
         <div class="block lg:hidden">
             <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
