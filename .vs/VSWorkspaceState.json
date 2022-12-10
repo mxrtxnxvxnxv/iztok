@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\layouts",
+    "\\layouts\\partials",
+    "\\layouts\\products",
+    "\\layouts\\_default",
     "\\static",
-    "\\static\\css"
+    "\\static\\css",
+    "\\static\\img",
+    "\\themes",
+    "\\themes\\tella\\static\\js"
   ],
-  "SelectedNode": "\\static\\css\\style.css",
+  "SelectedNode": "\\layouts\\partials\\footer.html",
   "PreviewInSolutionExplorer": false
 }
