@@ -3,13 +3,7 @@
     "",
     "\\layouts",
     "\\layouts\\partials",
-    "\\layouts\\products",
-    "\\static\\css",
-    "\\static\\img",
-    "\\themes\\tella",
-    "\\themes\\tella\\layouts",
-    "\\themes\\tella\\layouts\\partials"
+    "\\layouts\\products"
   ],
-  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }
