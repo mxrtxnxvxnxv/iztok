@@ -69,7 +69,7 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "instagram"
     url = "https://instagram.com/iztokstudio?igshid=YmMyMTA2M2Y="
-    pre = "<i class='icon-instagram text-2xl'></i>"
+    pre = "<i class='icon-instagram text-1xl'></i>"
       weight = 1
 
 #       [[menu.footer]]

@@ -4,13 +4,12 @@
     "\\layouts",
     "\\layouts\\partials",
     "\\layouts\\products",
-    "\\layouts\\_default",
-    "\\static",
     "\\static\\css",
     "\\static\\img",
-    "\\themes",
-    "\\themes\\tella\\static\\js"
+    "\\themes\\tella",
+    "\\themes\\tella\\layouts",
+    "\\themes\\tella\\layouts\\partials"
   ],
-  "SelectedNode": "\\layouts\\partials\\footer.html",
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }
