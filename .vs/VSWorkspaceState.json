@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\layouts",
     "\\layouts\\partials",
-    "\\layouts\\products"
+    "\\layouts\\products",
+    "\\themes",
+    "\\themes\\tella",
+    "\\themes\\tella\\exampleSite"
   ],
-  "SelectedNode": "\\config.toml",
+  "SelectedNode": "\\themes\\tella\\exampleSite\\config.toml",
   "PreviewInSolutionExplorer": false
 }
