@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\themes\\tella",
-    "\\themes\\tella\\exampleSite"
+    "\\content",
+    "\\data"
   ],
-  "SelectedNode": "\\data\\slide.json",
+  "SelectedNode": "\\content\\contact.md",
   "PreviewInSolutionExplorer": false
 }
