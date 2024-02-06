@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\data"
+    "\\resources",
+    "\\static",
+    "\\static\\img",
+    "\\static\\img\\slide"
   ],
-  "SelectedNode": "\\content\\about.md",
+  "SelectedNode": "\\static\\img\\slide",
   "PreviewInSolutionExplorer": false
 }
